@@ -1,0 +1,4 @@
+0 string
+string 38
+25 8
+38 10
