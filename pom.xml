@@ -8,7 +8,7 @@
 	<version>0.1</version>
 	<packaging>jar</packaging>
 
-	<name>satisfy-gordon-appetite</name>
+	<name>satisfy-gordons-appetite</name>
 	<description>Serve Gordon Ramsey with dishes having most satisfaction rate in limited time</description>
 
 	<parent>
